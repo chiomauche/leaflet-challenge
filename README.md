@@ -16,7 +16,8 @@ I imported and visualized the data by doing the following:
 
     Creating  a legend that will provide context for my map data.
 
-The map
+# The map visualization link
+https://chiomauche.github.io/leaflet-challenge/
 
 ![Alt text](EarthquakeMap.png)
 
